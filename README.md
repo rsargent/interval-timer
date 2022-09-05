@@ -1,3 +1,5 @@
+Trivially simple interval timer;  beeps every N seconds.
+
 To build, start vscode and choose "run build task"
 
 Notes.  Original setup to get to "hello world":
